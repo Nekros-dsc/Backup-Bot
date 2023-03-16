@@ -8,7 +8,7 @@
 - [☄・Deploys](#deploys)
 - [🔰・Features](#features)
 - [🌌・Discord](https://discord.gg/zM6ZN9UfRs)
-- [🎉・Setting up Nuker](#setup)
+- [🎉・Setting up](#setup)
 - [⚙・Config](#config)
 ## <a id="deploys"></a>☄ » Deploys
 > [Deploy with REPLIT](https://replit.com/github/Nekros-dsc/backup-bot)
